@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c&&db=i&d#=br#kq-so8$%hi&ivbt@3(z6xl3m!@fgj177^8q1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["", "barrel-backend.onrender.com", "www.barrel-backend.onrender.com", "*"]
 
 
 # Application definition
